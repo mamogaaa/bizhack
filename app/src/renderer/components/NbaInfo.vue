@@ -1,7 +1,7 @@
 <template>
   <div class="footer">
     <div class="info">
-      The current season is 2016-2017, and the NBA already has history of {{historyYears}} years.
+      The current season is 2017-2018, and the NBA already has history of {{historyYears}} years.
     </div>
   </div>
 </template>
