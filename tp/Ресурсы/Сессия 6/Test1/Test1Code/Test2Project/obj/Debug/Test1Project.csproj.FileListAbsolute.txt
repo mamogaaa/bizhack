@@ -1,0 +1,8 @@
+D:\Test1Code\Test2Project\bin\Debug\Test1Project.dll
+D:\Test1Code\Test2Project\bin\Debug\Test1Project.pdb
+D:\Test1Code\Test2Project\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Test1Code\Test2Project\bin\Debug\Test1Code.dll
+D:\Test1Code\Test2Project\bin\Debug\Test1Code.pdb
+D:\Test1Code\Test2Project\obj\Debug\Test1Project.csprojResolveAssemblyReference.cache
+D:\Test1Code\Test2Project\obj\Debug\Test1Project.dll
+D:\Test1Code\Test2Project\obj\Debug\Test1Project.pdb
