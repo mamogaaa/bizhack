@@ -3,6 +3,7 @@ import Router from 'vue-router'
 
 import MainPage from '@/components/MainPage'
 import VisitorMenu from '@/components/VisitorMenu'
+import TeamsMain from '@/components/TeamsMain'
 
 Vue.use(Router)
 
@@ -19,6 +20,14 @@ export default new Router({
       component: VisitorMenu,
       meta: {
         title: 'Visitor Menu'
+      }
+    },
+    {
+      path: '/visitor/teams',
+      name: 'visitor-teams',
+      component: TeamsMain,
+      meta: {
+        title: 'Teams Main'
       }
     },
     {

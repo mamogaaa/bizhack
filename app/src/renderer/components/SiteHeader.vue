@@ -40,6 +40,8 @@
 <style lang="sass" scoped>
   .navbar
     height: 64px
+    display: block
+
   .navbar-brand
     padding-left: 6rem
     cursor: default
